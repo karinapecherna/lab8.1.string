@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\karin\source\repos\lab8.1.string\UnitTest1\UnitTest1.cpp(16,4): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.string\UnitTest1\UnitTest1.cpp(17,4): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.string\UnitTest1\UnitTest1.cpp(18,4): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.string\UnitTest1\UnitTest1.cpp(19,4): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\karin\source\repos\lab8.1.string\x64\Debug\UnitTest1.lib and object C:\Users\karin\source\repos\lab8.1.string\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\karin\source\repos\lab8.1.string\x64\Debug\UnitTest1.dll
